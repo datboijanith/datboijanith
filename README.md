@@ -15,7 +15,7 @@
 <h3 align="center">Aspiring Information Technology Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+things+with+code...;Learning+something+new+every+day;Java+%7C+Python+%7C+SQL+%7C+AI;Currently+chasing+the+Dean's+List+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+things+with+code...;Learning+something+new+every+day;Java+%7C+Python+%7C+SQL+%7C+AI" alt="Typing SVG" />
 </p>
 
 - IT student: currently on the grind to success!
