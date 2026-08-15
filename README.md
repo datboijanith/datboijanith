@@ -10,14 +10,6 @@
 
 ```
 
-```
- ┌────────────────────────────────────────┐
- │   >_  root@janith:~$ whoami             │
- │   Aspiring IT Enthusiast                │
- │   Status: Compiling knowledge...        │
- └────────────────────────────────────────┘
-```
-
 </div>
 
 <h3 align="center">💻 Aspiring Information Technology Enthusiast</h3>
