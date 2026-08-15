@@ -18,10 +18,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+things+with+code...;Learning+something+new+every+day;Java+%7C+Python+%7C+SQL+%7C+AI" alt="Typing SVG" />
 </p>
 
->  IT student — grinding relentlessly toward mastery.
->  Passionate about: Software Dev · Databases · Applied AI
->  Perpetually tinkering with new languages, frameworks, and side quests.
->  Open to collabs, knowledge swaps, and complex challenges.
+- IT student: grinding relentlessly toward mastery.
+- Passionate about: Software Dev | Databases | Applied AI
+- Perpetually tinkering with new languages, frameworks, and side quests.
+- Open to collabs, knowledge swaps, and complex challenges.
 
 ---
 
