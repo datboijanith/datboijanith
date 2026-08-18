@@ -46,10 +46,6 @@
 ### `>_` GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=datboijanith&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=datboijanith&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
@@ -70,15 +66,5 @@
 </p>
 
 ---
-
-<div align="center">
-
-```
- ┌──────────────────────────────────────────────┐
- │  "Code. Learn. Repeat. Aim for the top."      │
- └──────────────────────────────────────────────┘
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=datboijanith&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
