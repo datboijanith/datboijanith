@@ -19,7 +19,7 @@
 </p>
 
 - IT student: grinding relentlessly toward mastery.
-- Passionate about: Software Dev | Databases | Applied AI
+- Passionate about: Software Development, Databases Applied ML
 - Perpetually tinkering with new languages, frameworks, and side quests.
 - Open to collabs, knowledge swaps, and complex challenges.
 
